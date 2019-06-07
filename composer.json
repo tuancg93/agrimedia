@@ -1,0 +1,17 @@
+{
+    "name": "agrimedia/core",
+    "description": "RepositoryBase,Annotation",
+    "type": "library",
+    "require": {
+        "doctrine/annotations": "1.4.0",
+        "nwidart/laravel-modules": "^5.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pham Tuan Anh",
+            "email": "anhpt300193@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

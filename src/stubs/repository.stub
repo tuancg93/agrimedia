@@ -1,0 +1,18 @@
+<?php
+
+namespace $NAMESPACE$;
+
+use Core\AbstractBaseRepository;
+use DB;
+
+class $CLASS$ extends AbstractBaseRepository
+{
+
+    public function __construct()
+    {
+
+    }
+
+
+
+}
